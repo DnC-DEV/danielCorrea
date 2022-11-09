@@ -1,4 +1,4 @@
-<div>
+  <div>
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
@@ -7,13 +7,15 @@
   
   <p align="center">
     Programador Full Stack
+  </p>
 
+  </div>
     <div align="center">
   <a href="https://github.com/DnC-DEV">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DnC-DEV&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnC-DEV&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
-</div>
+    </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,6 +35,7 @@
   <a href="https://www.linkedin.com/in/danielcorrea5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:daniel.correa0215@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 
 <div align="center">
 
